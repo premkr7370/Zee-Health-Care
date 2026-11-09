@@ -1,3 +1,5 @@
+
+
 # Doctor Appointment Web
 
 A doctor appointment management application with a patient-facing website, an administrator dashboard, and a REST API. Patients can register, browse doctors, request appointments, and send messages. Administrators can manage appointments and doctors, add administrators, and review submitted messages.
@@ -229,5 +231,4 @@ No deployment configuration or deployment scripts are included in the repository
 2. Keep changes focused and do not commit environment files, credentials, or build output.
 3. Run the relevant frontend or dashboard lint/build commands before opening a pull request.
 4. Describe the change and include screenshots for user-interface updates when practical.
-#   Z e e - H e a l t h - C a r e  
- 
+#
