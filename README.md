@@ -168,7 +168,7 @@ Run these commands from the corresponding application directory.
 | `dashboard/` | `npm run preview` | Preview the production build locally. |
 | `dashboard/` | `npm run lint` | Run ESLint on the dashboard project. |
 
-## API
+##   API
 
 The API base path is `/api/v1`. Authenticated administrator endpoints require the `adminToken` cookie; patient endpoints require `patientToken`.
 
